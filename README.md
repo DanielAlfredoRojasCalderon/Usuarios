@@ -5,6 +5,7 @@ Consideraciones
 
 FUNCIONAMIENTO
 - Solo debes ejecutar el archivo "index.html" con el comando .\index.html en VScode, la página consume la información aleatoria que retorna la api mediante y la muestra en tarjetas con los datos solicitados en la prueba.
+- El consumo se hace con fectch donde todos los datos se almacenan en la variable "datos", los parametros de la variable Json como Nombre, Género,Ubicación, etc... Se  reparten en cada detalle de la tarjeta.
 
 EXPERIENCIA LABORAL:
 -Tengo experiencia como administrador de base de datos SQL Server y MongoDB.
